@@ -66,17 +66,15 @@
 #### 📥 메일함  
 이메일 본문 및 첨부파일 분석, 자동 태깅
 
-![메일함](https://prod-files-secure.s3.us-west-2.amazonaws.com/dbef53de-55a7-4b44-b51f-16508766f48a/ee7c64b2-1128-45a5-b4d4-07a6b72da839/8.%EB%A9%94%EC%9D%BC%ED%95%A8%EC%83%81%EC%84%B8.png)
 
 #### 📊 대시보드  
 센서 기반 실시간 위치 추적 및 컨테이너 환경 모니터링
 
-![대시보드](https://prod-files-secure.s3.us-west-2.amazonaws.com/dbef53de-55a7-4b44-b51f-16508766f48a/5521bfbb-8389-4544-bb0f-c556dd8d674e/%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C%EB%85%B9%ED%99%945.gif)
 
 #### 💬 챗봇  
 GPT 기반 견적 정보 보완 + 다국어 대응 (영어/일본어/태국어)
 
-![챗봇](https://prod-files-secure.s3.us-west-2.amazonaws.com/dbef53de-55a7-4b44-b51f-16508766f48a/fef650df-e230-4f56-ae61-b8405eae5073/11-1.%EC%B1%84%ED%8C%85.png)
+![챗봇](![image](https://github.com/user-attachments/assets/83c39b2f-de2a-4518-9df1-973d1580d0f9))
 
 ---
 
